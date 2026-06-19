@@ -30,4 +30,3 @@ for i in range(0,2*n,2):
 print(f"Amount before discount is: {totalAmount}")
 print(f"Total discount is: {disc}")
 print(f"Total bill is: {totalBill}")
-
